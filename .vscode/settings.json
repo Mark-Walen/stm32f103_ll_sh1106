@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "stm32f10x.h": "c",
+        "iic.h": "c",
+        "new": "c"
+    }
+}
